@@ -4,6 +4,7 @@ Nhận diện 10 loại trái cây
   data
   
 https://drive.google.com/drive/folders/1lUdOToV-lY10txKzkNr75RcT4jOjStfx?usp=sharing
+
   code
   
 https://colab.research.google.com/drive/1mnfgON6-924JNuyGWgqqvzQpYe46wyK?usp=sharing
