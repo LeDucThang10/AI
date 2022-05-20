@@ -1,4 +1,24 @@
 # AI
+Nhận diện 1 người bằng ANN
+
+  data
+  
+https://drive.google.com/drive/folders/1WQVOeBDlqq9CSJL773s-zXBmjGSFtccM?usp=sharing
+
+  code
+  
+https://colab.research.google.com/drive/1LG6G8hh4Df10M4eWZY56wH39LDQTAK60?usp=sharing
+
+Nhận diện 3 người bằng CNN
+
+  data
+
+https://drive.google.com/drive/folders/1dN_dCrcZUJ6iAnZYAkwYZ2psgMjiE4e2?usp=sharing
+
+  code
+
+https://colab.research.google.com/drive/19guDrRRvTCtTwTRTlOpq4hpwIqgQKXDj?usp=sharing
+
 Nhận diện 10 loại trái cây
 
   data
